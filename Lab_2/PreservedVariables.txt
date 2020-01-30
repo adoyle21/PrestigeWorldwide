@@ -1,0 +1,39 @@
+There are 38 preserved variables based solely on if they were integer values
+1.) Id, This is an index of houses, each value representing a differnt home
+2.) MSSubClass, gives houses subclass, not too sure what this one is 
+3.) LotFrontage, How much space is in the front yard
+4.) LotArea, overall lot area of the lot, likely square feet or yards 
+5.) OverallQual, a quality rating of the lot based on some factors 
+6.) OverallCond, a condition rating of the lot based on some standards 
+7.) YearBuilt, the year the home was built 
+8.) YearRemodAdd, they year remodels or additions took place 
+9.) MasVnrArea
+10.) BsmtFinSF1, square feet of finished basement 
+11.) BsmtFinSF2, square feet of finished basement part 2
+12.) BsmntunfSF, square feet of unfinished basements 
+13.) TotalBsmntSF, total square feet of all basements 
+14.) X1stFlrSF, Square footage of the first floor 
+15.) X2ndFlrSF, Square footage of the second floor
+16.) LowQualFinSF, low quality finished square footage
+17.) GrLivArea, size of general living area  
+18.) BsmtFullBath, binary code for if a basement has a full bathroom or not 
+19.) BsmtHalfBath, binary for if a basement has a half bath 
+20.) FullBath, The number of full bathrooms
+21.) HalfBath, the number of half bathrooms 
+22.) BedroomAbvGr, number of bedrooms above ground 
+23.) KitchenAbvGrd, number of kitchens above ground 
+24.) TotRmsAbvGrd, total number of rooms above ground 
+25.) Fireplaces, number of fire places 
+26.) GarageYrBlt, the year the garage was built 
+27.) GarageCars, the number of cars that fit in the garage
+28.) GarageArea, the square footage of the garage 
+29.) WoodDeckSF, Square footage of wooden decks
+30.) OpenPorchSF, Square footage of open porch 
+31.) EnclosedPorch, Square footage of closed porch
+32.) X3SsnPorch, square footage of 3 season porch
+33.) ScreenPorch, square footage of screen porch 
+34.) PoolArea, Size of the pool area 
+35.) MiscVal, value of some misc entity 
+36.) MoSold, month sold 
+37.) YrSold, year sold 
+38.) SalePrice, the price sold at 
